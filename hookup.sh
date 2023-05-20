@@ -44,9 +44,9 @@ done
 # Use the `read` command to capture the input in an SSH variable
 #
 # AI Prompt: "How I read user input, with a prompt, in a bash script with a single command?"
-echo "Github SSH URL:"
 
-# Put the correct command here
+
+
 
 
 
@@ -113,11 +113,13 @@ exit 1;
 
 
 #
-# Extra credit for after the workshop:
+# Extra credit for after the session:
 # If the command fails with an exit code, echo the following message
 #   "FAILED: Remote origin already exists"
 #
 # Web article: https://unix.stackexchange.com/questions/340855/bash-assign-output-error-to-variable
+
+
 
 
 
@@ -159,6 +161,8 @@ fi
 # Use the `curl` command to GET the URL that you defined above. Run it in silent mode and store the response in `.gitignore`
 #
 # AI Prompt: "In a bash script, Ii want to use curl. The url is stored in a variable. I want to use silent mode. I want the response I get to be stored in a file named .gitignore."
+
+
 
 
 
